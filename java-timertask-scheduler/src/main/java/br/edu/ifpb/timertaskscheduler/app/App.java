@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.edu.ifpb.javataskscheduler.app;
+package br.edu.ifpb.timertaskscheduler.app;
 
-import br.edu.ifpb.javataskscheduler.model.Agendador;
+import br.edu.ifpb.timertaskscheduler.model.Agendador;
 import java.util.Timer;
 
 /**
