@@ -5,14 +5,14 @@
  */
 package br.edu.ifpb.timertaskscheduler.app;
 
-import br.edu.ifpb.timertaskscheduler.model.Agendador;
+import br.edu.ifpb.timertaskscheduler.service.Agendador;
 import java.util.Timer;
 
 /**
  *
  * @author romulo
  */
-public class App {
+public class TimerTaskApp {
 
     public static void main(String[] args) {
 
